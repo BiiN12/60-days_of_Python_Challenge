@@ -26,7 +26,7 @@ Based on my background as a front-end web developer, this challenge focuses on:
 
 [day01](day01/) – Day 1: Setup & First Python Script  
 [day02](day02/) – Day 2: Variables & Input  
-[day03](day03/) – Day 3: Data Types
+[day03](day03/) – Day 3: Lists & Loops
 
 ---
 
@@ -37,7 +37,8 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 | Day | Topic                       | Status     |
 | --- | --------------------------- | ---------- |
 | 1   | Setup & First Python Script | ✅ Done    |
-| 2   | Variables & Input           | ⏳ Pending |
+| 2   | Variables & Input           | ✅ Done    |
+| 3   | Lists & Loops               | ⏳ Pending |
 | ... | ...                         | ...        |
 
 ---
