@@ -22,14 +22,6 @@ Based on my background as a front-end web developer, this challenge focuses on:
 
 ---
 
-## 📂 Folder Structure
-
-[day01](day01/) – Day 1: Setup & First Python Script  
-[day02](day02/) – Day 2: Variables & Input  
-[day03](day03/) – Day 3: Lists & Loops
-
----
-
 ## 🚀 Progress
 
 The 60-day challenge plan was designed with guidance from ChatGPT.
@@ -38,8 +30,22 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 | --- | --------------------------- | ---------- |
 | 1   | Setup & First Python Script | ✅ Done    |
 | 2   | Variables & Input           | ✅ Done    |
-| 3   | Lists & Loops               | ⏳ Pending |
+| 3   | Basic Operators             | ✅ Done    |
+| 4   | Strings & String Methods    | ⏳ Pending |
 | ... | ...                         | ...        |
+
+<!-- <details>
+<summary>📋 View all days (click to expand)</summary>
+
+| 4 | Conditionals & Comparisons | ⏳ Pending |
+| 5 | Functions Basics | ⏳ Pending |
+| 6 | Error Handling | ⏳ Pending |
+| 7 | File Operations | ⏳ Pending |
+| 8 | Dictionaries | ⏳ Pending |
+| ... | ... | ... |
+| 60 | Final Project | ⏳ Pending |
+
+</details> -->
 
 ---
 
