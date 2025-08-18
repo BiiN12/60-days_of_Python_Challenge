@@ -31,7 +31,8 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 | 1   | Setup & First Python Script | ✅ Done    |
 | 2   | Variables & Input           | ✅ Done    |
 | 3   | Basic Operators             | ✅ Done    |
-| 4   | Strings & String Methods    | ⏳ Pending |
+| 4   | Conditional Statements      | ✅ Done    |
+| 5   | Loops                       | ⏳ Pending |
 | ... | ...                         | ...        |
 
 <!-- <details>

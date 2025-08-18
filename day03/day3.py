@@ -11,10 +11,6 @@
 # 2. Compare a and b with all comparison operators
 # 3. Start with x = 5
 #    - Update it step by step using +=, -=, *=, printing after each
-# 4. Mini login check:
-#    - username = "admin", password = "1234"
-#    - Ask user for username & password
-#    - Print "Login successful" if both match, else "Access denied"
 #
 # 👉 Write your solution below:
 
@@ -49,13 +45,3 @@ x *= 2
 print(x) #10
 
 #4
-username = "admin"
-password = "1234"
-
-username_in = input("Enter your username: ")
-password_in = input("Enter your password: ")
-
-if username_in == username and password_in == password:
-    print("Login successful")
-else:
-    print("Access denied")
