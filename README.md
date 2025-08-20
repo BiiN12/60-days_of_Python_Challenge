@@ -26,27 +26,28 @@ Based on my background as a front-end web developer, this challenge focuses on:
 
 The 60-day challenge plan was designed with guidance from ChatGPT.
 
-| Day | Topic                       | Status     |
-| --- | --------------------------- | ---------- |
-| 1   | Setup & First Python Script | ✅ Done    |
-| 2   | Variables & Input           | ✅ Done    |
-| 3   | Basic Operators             | ✅ Done    |
-| 4   | Conditional Statements      | ✅ Done    |
-| 5   | Loops                       | ⏳ Pending |
-| ... | ...                         | ...        |
+| Day | Topic                       | Status  |
+| --- | --------------------------- | ------- |
+| 1   | Setup & First Python Script | ✅ Done |
+| 2   | Variables & Input           | ✅ Done |
+| 3   | Basic Operators             | ✅ Done |
+| 4   | Conditional Statements      | ✅ Done |
+| 5   | Loops                       | ✅ Done |
+| ... | ...                         | ...     |
 
-<!-- <details>
+<details>
 <summary>📋 View all days (click to expand)</summary>
 
-| 4 | Conditionals & Comparisons | ⏳ Pending |
-| 5 | Functions Basics | ⏳ Pending |
+| 6 | Strings | ⏳ Pending |
+
+<!-- | 5 | Functions Basics | ⏳ Pending |
 | 6 | Error Handling | ⏳ Pending |
 | 7 | File Operations | ⏳ Pending |
 | 8 | Dictionaries | ⏳ Pending |
 | ... | ... | ... |
-| 60 | Final Project | ⏳ Pending |
+| 60 | Final Project | ⏳ Pending | -->
 
-</details> -->
+</details>
 
 ---
 
