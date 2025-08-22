@@ -38,14 +38,14 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 <details>
 <summary>📋 View all days (click to expand)</summary>
 
-| Day | Topic     | Status     |
-| --- | --------- | ---------- |
-| 6   | Strings   | ✅ Done    |
-| 7   | Functions | ⏳ Pending |
+| Day | Topic                      | Status     |
+| --- | -------------------------- | ---------- |
+| 6   | Strings                    | ✅ Done    |
+| 7   | Functions                  | ✅ Done    |
+| 8   | Functions - Complete Guide | ⏳ Pending |
 
 <!-- | 5 | Functions Basics | ⏳ Pending |
 | 7 | File Operations | ⏳ Pending |
-| 8 | Dictionaries | ⏳ Pending |
 | ... | ... | ... |
 | 60 | Final Project | ⏳ Pending | -->
 
