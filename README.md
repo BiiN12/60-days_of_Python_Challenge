@@ -43,9 +43,10 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 | 6   | Strings                    | ✅ Done    |
 | 7   | Functions                  | ✅ Done    |
 | 8   | Functions - Complete Guide | ✅ Done    |
-| 9   | Lists                      | ⏳ Pending |
+| 9   | Lists                      | ✅ Done    |
+| 10  | Dictionaries               | ⏳ Pending |
 
-<!-- | 5 | Functions Basics | ⏳ Pending |
+<!--
 | ... | ... | ... |
 | 60 | Final Project | ⏳ Pending | -->
 
