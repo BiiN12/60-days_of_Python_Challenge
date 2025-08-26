@@ -44,7 +44,8 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 | 7   | Functions                  | ✅ Done    |
 | 8   | Functions - Complete Guide | ✅ Done    |
 | 9   | Lists                      | ✅ Done    |
-| 10  | Dictionaries               | ⏳ Pending |
+| 10  | Dictionaries               | ✅ Done    |
+| 11  | Importing Modules          | ⏳ Pending |
 
 <!--
 | ... | ... | ... |
