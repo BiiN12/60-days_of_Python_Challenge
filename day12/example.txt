@@ -1,0 +1,3 @@
+Hello, Python learners!
+This is Day 12: File Handling.
+We just added a new line!
