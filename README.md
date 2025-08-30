@@ -47,7 +47,8 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 | 10  | Dictionaries               | ✅ Done    |
 | 11  | Importing Modules          | ✅ Done    |
 | 12  | File Handling              | ✅ Done    |
-| 13  | Error Handling             | ⏳ Pending |
+| 13  | Error Handling             | ✅ Done    |
+| 14  | Introduction to OOP        | ⏳ Pending |
 
 <!--
 | ... | ... | ... |
