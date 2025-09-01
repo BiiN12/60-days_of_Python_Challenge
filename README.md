@@ -38,17 +38,18 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 <details>
 <summary>📋 View all days (click to expand)</summary>
 
-| Day | Topic                      | Status     |
-| --- | -------------------------- | ---------- |
-| 6   | Strings                    | ✅ Done    |
-| 7   | Functions                  | ✅ Done    |
-| 8   | Functions - Complete Guide | ✅ Done    |
-| 9   | Lists                      | ✅ Done    |
-| 10  | Dictionaries               | ✅ Done    |
-| 11  | Importing Modules          | ✅ Done    |
-| 12  | File Handling              | ✅ Done    |
-| 13  | Error Handling             | ✅ Done    |
-| 14  | Introduction to OOP        | ⏳ Pending |
+| Day | Topic                                 | Status     |
+| --- | ------------------------------------- | ---------- |
+| 6   | Strings                               | ✅ Done    |
+| 7   | Functions                             | ✅ Done    |
+| 8   | Functions - Complete Guide            | ✅ Done    |
+| 9   | Lists                                 | ✅ Done    |
+| 10  | Dictionaries                          | ✅ Done    |
+| 11  | Importing Modules                     | ✅ Done    |
+| 12  | File Handling                         | ✅ Done    |
+| 13  | Error Handling                        | ✅ Done    |
+| 14  | Introduction to OOP                   | ✅ Done    |
+| 15  | OOP - Encapsulation & Special Methods | ⏳ Pending |
 
 <!--
 | ... | ... | ... |
