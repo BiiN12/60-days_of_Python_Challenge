@@ -49,7 +49,8 @@ The 60-day challenge plan was designed with guidance from ChatGPT.
 | 12  | File Handling                         | ✅ Done    |
 | 13  | Error Handling                        | ✅ Done    |
 | 14  | Introduction to OOP                   | ✅ Done    |
-| 15  | OOP - Encapsulation & Special Methods | ⏳ Pending |
+| 15  | OOP - Encapsulation & Special Methods | ✅ Done    |
+| 16  | OOP - Inheritance & Polymorphism      | ⏳ Pending |
 
 <!--
 | ... | ... | ... |
